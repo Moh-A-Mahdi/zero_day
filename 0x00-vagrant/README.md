@@ -1,3 +1,3 @@
 uname commit...
-**Strong** __Mohamed A. Mahdi Moh.ahmed__
-**Strong** __Moh.Mahdi0548@gmail.com__
+* __Mohamed A. Mahdi Moh.ahmed__
+* __Moh.Mahdi0548@gmail.com__
